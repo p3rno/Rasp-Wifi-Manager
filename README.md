@@ -3,4 +3,4 @@ Rasp Wifi-Manager is a web-based tools working on Raspberry P zero W and Raspber
 
 Read Wiki for explanations : https://github.com/p3rno/Rasp-Wifi-Manager/wiki
 
-For download the ready iso : https://ufile.io/crgon
+Download the ready iso hero: https://ufile.io/crgon
